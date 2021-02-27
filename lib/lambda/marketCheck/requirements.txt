@@ -1,0 +1,4 @@
+yfinance==0.1.54
+ta==0.5.25
+datetime==4.3
+boto3==1.15.13
